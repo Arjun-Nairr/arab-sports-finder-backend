@@ -1,0 +1,14 @@
+# Credentials
+.env
+.env.*
+!.env.example
+
+# Local environment, model weights, caches and run output
+.venv/
+__pycache__/
+models/
+cache/
+runs/
+
+# Website files (not part of this backend snapshot)
+showcase/

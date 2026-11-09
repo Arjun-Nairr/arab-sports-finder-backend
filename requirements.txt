@@ -1,0 +1,8 @@
+psycopg[binary]==3.2.3
+truststore==0.10.5
+# T03 local Laya (CPU). PyPI's Windows torch wheel is CPU-only; no CUDA build is needed.
+laya==0.3.20
+torch==2.15.0
+transformers==5.22.1
+tokenizers==0.23.3
+huggingface_hub==2.4.0

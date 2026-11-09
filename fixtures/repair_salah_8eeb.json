@@ -1,0 +1,255 @@
+{
+ "source": "pkg-20261108T151756Z-8eeb (live run 20261108T151756Z-8eeb): repair_1 was refused before sending, 'request_too_large: estimated 8480 tokens > 8000 tokens/minute'",
+ "name": "Mohamed Salah",
+ "angle": "Proposed story angle (its references were checked against the stored passages). Stakes: Egypt needed a win in the AFCON quarter‑final to stay in contention for the title. Turning point: Salah scored in the quarter‑final against Ivory Coast, securing Egypt’s progress. Significance: The goal made him the first African to score against eleven different AFCON opponents, cementing his legacy. Leave out: details about club achievements, World Cup performances, and individual awards",
+ "facts": [
+  {
+   "id": "A1",
+   "statement": "Salah was selected for the 2023 Africa Cup of Nations squad and scored a stoppage‑time penalty in the opening match."
+  },
+  {
+   "id": "A2",
+   "statement": "He suffered a hamstring injury against Ghana and missed the rest of that tournament."
+  },
+  {
+   "id": "A4",
+   "statement": "That goal gave him the record of scoring against eleven different AFCON teams, a first for any African player."
+  }
+ ],
+ "draft": {
+  "title": "Salah’s historic quarter‑final strike",
+  "slides": [
+   {
+    "body": "Egypt met Ivory Coast in the Africa Cup of Nations quarter‑final, a game that was essential for keeping the team in contention for the championship.",
+    "role": "hook",
+    "heading": "A must‑win quarter‑final",
+    "fact_ids": [
+     "A1"
+    ]
+   },
+   {
+    "body": "Salah had been selected for Egypt’s squad and had already opened the tournament by scoring a stoppage‑time penalty in the group‑stage match against Mozambique.",
+    "role": "background",
+    "heading": "AFCON journey so far",
+    "fact_ids": [
+     "A1"
+    ]
+   },
+   {
+    "body": "In the quarter‑final against Ivory Coast, Salah scored, giving Egypt the lead and moving the side forward in the knockout stage.",
+    "role": "turning_point",
+    "heading": "The decisive goal",
+    "fact_ids": [
+     "A1"
+    ]
+   },
+   {
+    "body": "That strike made him the first African to have found the net against eleven separate opponents in AFCON history.",
+    "role": "outcome",
+    "heading": "A new record set",
+    "fact_ids": [
+     "A4"
+    ]
+   },
+   {
+    "body": "The achievement underscores Salah’s unique contribution to Egypt’s campaign and adds a notable milestone to African football history.",
+    "role": "why_it_matters",
+    "heading": "Why it matters",
+    "fact_ids": [
+     "A4"
+    ]
+   }
+  ],
+  "explanation": {
+   "text": "The angle combines a pivotal match result with a record‑breaking personal milestone, showing why the goal was significant for both Egypt and the continent’s tournament legacy.",
+   "fact_ids": [
+    "A1",
+    "A4"
+   ]
+  }
+ },
+ "round": {
+  "failed_facts": [],
+  "facts": [
+   {
+    "id": "A1",
+    "statement": "Salah was selected for the 2023 Africa Cup of Nations squad and scored a stoppage‑time penalty in the opening match.",
+    "passage": "On 30 December 2023, he was selected in the 27-man squad for the 2023 Africa Cup of Nations in Ivory Coast. On 14 January 2024, he scored a stoppage-time penalty in a 2–2 draw against Mozambique in the opening match of group stage, becoming the first Egyptian to score in four different AFCON tournaments. Four days later, he sustained a hamstring injury against Ghana, which forced him to withdraw from the competition. Later that year, on 10 June, he earned his 100th international cap, in which he also scored a goal, in a 1–1 away draw against Guinea-Bissau during the 2026 FIFA World Cup qualification. On 8 October 2025, he netted a brace in a 3–0 away win over Djibouti, sealing his nation's qualification for the 2026 FIFA World Cup. With his brace against Djibouti, he became the all-time top scorer in the history of the African World Cup qualifiers, by netting 20 goals for Egypt. He surpassed the previous joint record of 18 goals held by Didier Drogba, Samuel Eto'o, Moumouni Dagano, and Islam Slimani. On 10 January 2026, following Salah's goal against Ivory Coast in the quarter-finals of the 2025 Africa Cup of Nations, he became the first and only African player to score against eleven different teams in the history of the Africa Cup of Nations. However, Egypt eventually finished fourth at the African tournament."
+   },
+   {
+    "id": "A2",
+    "statement": "He suffered a hamstring injury against Ghana and missed the rest of that tournament.",
+    "passage": "On 30 December 2023, he was selected in the 27-man squad for the 2023 Africa Cup of Nations in Ivory Coast. On 14 January 2024, he scored a stoppage-time penalty in a 2–2 draw against Mozambique in the opening match of group stage, becoming the first Egyptian to score in four different AFCON tournaments. Four days later, he sustained a hamstring injury against Ghana, which forced him to withdraw from the competition. Later that year, on 10 June, he earned his 100th international cap, in which he also scored a goal, in a 1–1 away draw against Guinea-Bissau during the 2026 FIFA World Cup qualification. On 8 October 2025, he netted a brace in a 3–0 away win over Djibouti, sealing his nation's qualification for the 2026 FIFA World Cup. With his brace against Djibouti, he became the all-time top scorer in the history of the African World Cup qualifiers, by netting 20 goals for Egypt. He surpassed the previous joint record of 18 goals held by Didier Drogba, Samuel Eto'o, Moumouni Dagano, and Islam Slimani. On 10 January 2026, following Salah's goal against Ivory Coast in the quarter-finals of the 2025 Africa Cup of Nations, he became the first and only African player to score against eleven different teams in the history of the Africa Cup of Nations. However, Egypt eventually finished fourth at the African tournament."
+   },
+   {
+    "id": "A4",
+    "statement": "That goal gave him the record of scoring against eleven different AFCON teams, a first for any African player.",
+    "passage": "On 30 December 2023, he was selected in the 27-man squad for the 2023 Africa Cup of Nations in Ivory Coast. On 14 January 2024, he scored a stoppage-time penalty in a 2–2 draw against Mozambique in the opening match of group stage, becoming the first Egyptian to score in four different AFCON tournaments. Four days later, he sustained a hamstring injury against Ghana, which forced him to withdraw from the competition. Later that year, on 10 June, he earned his 100th international cap, in which he also scored a goal, in a 1–1 away draw against Guinea-Bissau during the 2026 FIFA World Cup qualification. On 8 October 2025, he netted a brace in a 3–0 away win over Djibouti, sealing his nation's qualification for the 2026 FIFA World Cup. With his brace against Djibouti, he became the all-time top scorer in the history of the African World Cup qualifiers, by netting 20 goals for Egypt. He surpassed the previous joint record of 18 goals held by Didier Drogba, Samuel Eto'o, Moumouni Dagano, and Islam Slimani. On 10 January 2026, following Salah's goal against Ivory Coast in the quarter-finals of the 2025 Africa Cup of Nations, he became the first and only African player to score against eleven different teams in the history of the Africa Cup of Nations. However, Egypt eventually finished fourth at the African tournament."
+   }
+  ],
+  "claims": [
+   {
+    "id": "C1",
+    "location": "title",
+    "text": "Salah’s historic quarter‑final strike",
+    "verdict": "insufficient",
+    "code": {
+     "reasons": [
+      "'final' (event identity) not in evidence",
+      "'historic' (event identity) not in evidence"
+     ]
+    },
+    "model": {
+     "reason": "Both A1 and A4 confirm Salah scored a quarter‑final goal that set a record, making the description of a historic quarter‑final strike accurate."
+    }
+   },
+   {
+    "id": "C2",
+    "location": "slide 1 heading",
+    "text": "A must‑win quarter‑final",
+    "verdict": "insufficient",
+    "code": {
+     "reasons": [
+      "'final' (event identity) not in evidence"
+     ]
+    },
+    "model": {
+     "reason": "The passage does not describe the quarter‑final as a ‘must‑win’; it only states the match occurred."
+    }
+   },
+   {
+    "id": "C3",
+    "location": "slide 1 body",
+    "text": "Egypt met Ivory Coast in the Africa Cup of Nations quarter‑final, a game that was essential for keeping the team in contention for the championship.",
+    "verdict": "insufficient",
+    "code": {
+     "reasons": [
+      "'final' (event identity) not in evidence"
+     ]
+    },
+    "model": {
+     "reason": "While the passage confirms the quarter‑final opponent, it does not state the game was essential for championship contention."
+    }
+   },
+   {
+    "id": "C4",
+    "location": "slide 2 heading",
+    "text": "AFCON journey so far",
+    "verdict": "insufficient",
+    "code": {
+     "reasons": [
+      "'so' (cause) not in evidence"
+     ]
+    },
+    "model": {
+     "reason": "The heading is a generic title with no factual content to verify against the passage."
+    }
+   },
+   {
+    "id": "C5",
+    "location": "slide 2 body",
+    "text": "Salah had been selected for Egypt’s squad and had already opened the tournament by scoring a stoppage‑time penalty in the group‑stage match against Mozambique.",
+    "verdict": "supported",
+    "code": {
+     "reasons": []
+    },
+    "model": {
+     "reason": "A1 confirms Salah was selected for the squad and scored the stoppage‑time penalty against Mozambique."
+    }
+   },
+   {
+    "id": "C6",
+    "location": "slide 3 heading",
+    "text": "The decisive goal",
+    "verdict": "insufficient",
+    "code": {
+     "reasons": []
+    },
+    "model": {
+     "reason": "The heading provides no factual statement to compare with the passage."
+    }
+   },
+   {
+    "id": "C7",
+    "location": "slide 3 body",
+    "text": "In the quarter‑final against Ivory Coast, Salah scored, giving Egypt the lead and moving the side forward in the knockout stage.",
+    "verdict": "insufficient",
+    "code": {
+     "reasons": [
+      "'final' (event identity) not in evidence"
+     ]
+    },
+    "model": {
+     "reason": "The passage confirms he scored in the quarter‑final, but does not mention that his goal gave Egypt the lead or advanced them in the knockout stage."
+    }
+   },
+   {
+    "id": "C8",
+    "location": "slide 4 heading",
+    "text": "A new record set",
+    "verdict": "insufficient",
+    "code": {
+     "reasons": []
+    },
+    "model": {
+     "reason": "The heading is a non‑factual title; the passage does not address it directly."
+    }
+   },
+   {
+    "id": "C9",
+    "location": "slide 4 body",
+    "text": "That strike made him the first African to have found the net against eleven separate opponents in AFCON history.",
+    "verdict": "supported",
+    "code": {
+     "reasons": []
+    },
+    "model": {
+     "reason": "A4 explicitly states the strike made him the first African to score against eleven different AFCON teams."
+    }
+   },
+   {
+    "id": "C10",
+    "location": "slide 5 heading",
+    "text": "Why it matters",
+    "verdict": "insufficient",
+    "code": {
+     "reasons": []
+    },
+    "model": {
+     "reason": "The heading is a generic question of significance, not a factual claim present in the passage."
+    }
+   },
+   {
+    "id": "C11",
+    "location": "slide 5 body",
+    "text": "The achievement underscores Salah’s unique contribution to Egypt’s campaign and adds a notable milestone to African football history.",
+    "verdict": "insufficient",
+    "code": {
+     "reasons": []
+    },
+    "model": {
+     "reason": "The passage does not contain evaluative language about his unique contribution or the milestone’s importance."
+    }
+   },
+   {
+    "id": "C12",
+    "location": "explanation",
+    "text": "The angle combines a pivotal match result with a record‑breaking personal milestone, showing why the goal was significant for both Egypt and the continent’s tournament legacy.",
+    "verdict": "insufficient",
+    "code": {
+     "reasons": []
+    },
+    "model": {
+     "reason": "The claim adds interpretive commentary about significance that is not directly stated in the passages."
+    }
+   }
+  ]
+ },
+ "steps": [
+  "angle_proposal",
+  "compose",
+  "revise_1",
+  "revise_2",
+  "verify"
+ ]
+}

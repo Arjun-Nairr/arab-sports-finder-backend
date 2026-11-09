@@ -1,0 +1,149 @@
+{
+ "source": "angle_attempt_1.json of live run 20261109T045041Z-b166 (batch-20261109T045047Z-753c, proposal 17): rejected because facts A2-A4 cited excerpt ids P8.3/P8.4 instead of passage P8",
+ "attribution": "Passages from the English Wikipedia biography of Hatem Trabelsi, revision https://en.wikipedia.org/w/index.php?oldid=1381395079, by Wikipedia contributors, licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Model output is Groq openai/gpt-oss-120b, prompt a2.",
+ "name": "Hatem Trabelsi",
+ "outcome_then": "invalid_references",
+ "reasons_then": [
+  "only 1 fact(s) passed the code checks (3 needed)",
+  "fact 'A2': unknown or no passages",
+  "fact 'A3': unknown or no passages",
+  "fact 'A4': unknown or no passages"
+ ],
+ "passages_sent": [
+  {
+   "id": "P1",
+   "article_id": 51,
+   "url": "https://en.wikipedia.org/wiki?curid=1758492",
+   "publisher": "English Wikipedia",
+   "content_hash": "79186b893432052c9263b56e837adda2d7bf2fe2f586c900ace0f08055e926fa",
+   "paragraph": 1,
+   "passage": "Hatem Trabelsi (Arabic: حَاتِم الطَّرَابُلْسِيّ, romanized: Ḥātim Aṭ-Ṭarābulsiyy; born 25 January 1977) is a Tunisian former professional footballer who played as a right-back for CS Sfaxien, Ajax and Manchester City At international level, he played for the Tunisia national team in three World Cups, gaining a total of 66 caps before retiring from international football in 2006."
+  },
+  {
+   "id": "P2",
+   "article_id": 51,
+   "url": "https://en.wikipedia.org/wiki?curid=1758492",
+   "publisher": "English Wikipedia",
+   "content_hash": "79186b893432052c9263b56e837adda2d7bf2fe2f586c900ace0f08055e926fa",
+   "paragraph": 3,
+   "passage": "Born in Ariana, Tunisia, Trabelsi grew up in Sfax, and started his football career with his home town club Sfaxien, where he initially played as a forward. An injury crisis at Sfaxien resulted in Trabelsi playing as a stop-gap right-back, leading to him converting to defence and becoming the team's regular right-back. In 2001 Trabelsi moved to Europe, signing for Dutch club Ajax."
+  },
+  {
+   "id": "P3",
+   "article_id": 51,
+   "url": "https://en.wikipedia.org/wiki?curid=1758492",
+   "publisher": "English Wikipedia",
+   "content_hash": "79186b893432052c9263b56e837adda2d7bf2fe2f586c900ace0f08055e926fa",
+   "paragraph": 4,
+   "passage": "In 2003, Ajax unilaterally took up the option to extend Trabelsi's contract by three years. He took the matter to court, and lost. He then refused to play for the club."
+  },
+  {
+   "id": "P4",
+   "article_id": 51,
+   "url": "https://en.wikipedia.org/wiki?curid=1758492",
+   "publisher": "English Wikipedia",
+   "content_hash": "79186b893432052c9263b56e837adda2d7bf2fe2f586c900ace0f08055e926fa",
+   "paragraph": 5,
+   "passage": "During the pre season of 2004, a £4 million transfer fee was agreed between Ajax and Arsenal, for Trabelsi to join the English champions. With the transfer looking imminent, even Pro Evolution Soccer 4 included Trabelsi for Arsenal. However, after disagreements over Trabelsi's salary demands were reported, Trabelsi did not sign with Arsenal and soon returned home to Ajax, where he signed a two-year deal overruling the previous contract that had caused the rift."
+  },
+  {
+   "id": "P5",
+   "article_id": 51,
+   "url": "https://en.wikipedia.org/wiki?curid=1758492",
+   "publisher": "English Wikipedia",
+   "content_hash": "79186b893432052c9263b56e837adda2d7bf2fe2f586c900ace0f08055e926fa",
+   "paragraph": 6,
+   "passage": "In 2006 Trabelsi was linked with moves to several English clubs, and joined Manchester City on a free transfer on 10 August. Injury and work permit problems prevented him from making his debut until a month into the season, a substitute appearance against Reading on 11 September."
+  },
+  {
+   "id": "P6",
+   "article_id": 51,
+   "url": "https://en.wikipedia.org/wiki?curid=1758492",
+   "publisher": "English Wikipedia",
+   "content_hash": "79186b893432052c9263b56e837adda2d7bf2fe2f586c900ace0f08055e926fa",
+   "paragraph": 7,
+   "passage": "He scored his first Manchester City goal against Manchester United with a left foot shot to beat Edwin van der Sar. Manchester City still lost the game 3–1. Trabelsi lost his right-back place in the side to Micah Richards and Nedum Onuoha. Trabelsi did not play a game after City's 1–0 win at Newcastle United in March, and he was released at the end of the season."
+  },
+  {
+   "id": "P7",
+   "article_id": 51,
+   "url": "https://en.wikipedia.org/wiki?curid=1758492",
+   "publisher": "English Wikipedia",
+   "content_hash": "79186b893432052c9263b56e837adda2d7bf2fe2f586c900ace0f08055e926fa",
+   "paragraph": 8,
+   "passage": "In November 2007, Trabelsi was close to a $1 million contract to play for one year at Al Hilal in the Saudi Pro League, but the deal collapsed."
+  },
+  {
+   "id": "P8",
+   "article_id": 51,
+   "url": "https://en.wikipedia.org/wiki?curid=1758492",
+   "publisher": "English Wikipedia",
+   "content_hash": "79186b893432052c9263b56e837adda2d7bf2fe2f586c900ace0f08055e926fa",
+   "paragraph": 10,
+   "passage": "Trabelsi made his international debut for the Tunisia national team in May 1998, shortly before the 1998 FIFA World Cup. He also played in all of Tunisia's matches in the 2002 FIFA World Cup and 2006 FIFA World Cups, as well as the 2004 African Nations Cup, which Tunisia won. Following Tunisia's elimination from the 2006 World Cup after a 1–0 defeat to Ukraine, Trabelsi announced his retirement from international football at the age of 29, with 61 caps and one goal. He scored his only goal for the national team in 2006 in a friendly match against Ghana."
+  },
+  {
+   "id": "P9",
+   "article_id": 51,
+   "url": "https://en.wikipedia.org/wiki?curid=1758492",
+   "publisher": "English Wikipedia",
+   "content_hash": "79186b893432052c9263b56e837adda2d7bf2fe2f586c900ace0f08055e926fa",
+   "paragraph": 12,
+   "passage": "Trabelsi was described as Tunisia's star player in the run-up to the 2006 World Cup. His strongest attributes are generally regarded to be his pace and his agility, though critics sometimes questioned his commitment."
+  }
+ ],
+ "model_output": {
+  "verdict": "angle",
+  "reason": "The passages describe a clear narrative of Trabelsi’s international career ending after Tunisia’s 2006 World Cup exit",
+  "stakes": {
+   "text": "Tunisia aimed to progress beyond the group stage of the 2006 World Cup, with Trabelsi as a key player",
+   "excerpts": [
+    "P8.2"
+   ]
+  },
+  "turning_point": {
+   "text": "After Tunisia’s 1–0 loss to Ukraine and elimination, Trabelsi announced his retirement from international football",
+   "excerpts": [
+    "P8.3"
+   ]
+  },
+  "significance": {
+   "text": "His retirement ended a career of 61 caps and one goal, concluding his contributions to the national team",
+   "excerpts": [
+    "P8.3",
+    "P8.4"
+   ]
+  },
+  "facts": [
+   {
+    "id": "A1",
+    "statement": "Trabelsi played in all of Tunisia’s matches at the 2002 and 2006 FIFA World Cups",
+    "passages": [
+     "P8"
+    ]
+   },
+   {
+    "id": "A2",
+    "statement": "Tunisia were eliminated from the 2006 World Cup after a 1–0 defeat to Ukraine",
+    "passages": [
+     "P8.3"
+    ]
+   },
+   {
+    "id": "A3",
+    "statement": "Following the elimination, Trabelsi retired from international football at age 29 with 61 caps and one goal",
+    "passages": [
+     "P8.3"
+    ]
+   },
+   {
+    "id": "A4",
+    "statement": "His only international goal was scored in a 2006 friendly against Ghana",
+    "passages": [
+     "P8.4"
+    ]
+   }
+  ],
+  "omit": ""
+ }
+}

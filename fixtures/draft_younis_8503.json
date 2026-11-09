@@ -1,0 +1,93 @@
+{
+ "source": "pkg-20261108T170715Z-8503 (live run 20261108T170715Z-8503): first draft refused with 'total words 81, need about 100-150'; no revision or verification call was left",
+ "name": "Younis Mahmoud",
+ "angle": "Proposed story angle (its references were checked against the stored passages). Stakes: Iraq needed to win their first Asian Cup to achieve a historic breakthrough. Turning point: Mahmoud scored the winning goal in the final, securing the title. Significance: The victory gave Iraq its first Asian Cup, and Mahmoud earned the tournament’s Golden Boot and MVP. Leave out: details about club career, earlier youth matches, and later retirement",
+ "sources": [
+  {
+   "sid": "S1",
+   "url": "https://en.wikipedia.org/wiki?curid=6387424",
+   "publisher": "English Wikipedia",
+   "text": "Mahmoud's first international goal was an equaliser in the 89th minute of the final of the 2002 WAFF Championship, which Iraq then went on to win in extra-time. Three years later, Mahmoud scored in the final of the 2005 West Asian Games to lead his team to another title, before becoming the national team captain a year later. In 2007, Mahmoud achieved the best honour of his career, leading his country to win the 2007 AFC Asian Cup, their first such success, scoring the winning goal in the final and also winning the Golden Boot and Most Valuable Player awards at the tournament. In the 2007 Ballon d'Or, Mahmoud finished in 29th place, becoming the only Iraqi player ever to be nominated for the Ballon d'Or."
+  }
+ ],
+ "facts": [
+  {
+   "id": "A1",
+   "statement": "Mahmoud led Iraq to its first AFC Asian Cup title in 2007.",
+   "source": "S1",
+   "evidence": "Mahmoud's first international goal was an equaliser in the 89th minute of the final of the 2002 WAFF Championship, which Iraq then went on to win in extra-time. Three years later, Mahmoud scored in the final of the 2005 West Asian Games to lead his team to another title, before becoming the national team captain a year later. In 2007, Mahmoud achieved the best honour of his career, leading his country to win the 2007 AFC Asian Cup, their first such success, scoring the winning goal in the final and also winning the Golden Boot and Most Valuable Player awards at the tournament. In the 2007 Ballon d'Or, Mahmoud finished in 29th place, becoming the only Iraqi player ever to be nominated for the Ballon d'Or.",
+   "passage": "Mahmoud's first international goal was an equaliser in the 89th minute of the final of the 2002 WAFF Championship, which Iraq then went on to win in extra-time. Three years later, Mahmoud scored in the final of the 2005 West Asian Games to lead his team to another title, before becoming the national team captain a year later. In 2007, Mahmoud achieved the best honour of his career, leading his country to win the 2007 AFC Asian Cup, their first such success, scoring the winning goal in the final and also winning the Golden Boot and Most Valuable Player awards at the tournament. In the 2007 Ballon d'Or, Mahmoud finished in 29th place, becoming the only Iraqi player ever to be nominated for the Ballon d'Or."
+  },
+  {
+   "id": "A2",
+   "statement": "He scored the decisive goal in the final match.",
+   "source": "S1",
+   "evidence": "Mahmoud's first international goal was an equaliser in the 89th minute of the final of the 2002 WAFF Championship, which Iraq then went on to win in extra-time. Three years later, Mahmoud scored in the final of the 2005 West Asian Games to lead his team to another title, before becoming the national team captain a year later. In 2007, Mahmoud achieved the best honour of his career, leading his country to win the 2007 AFC Asian Cup, their first such success, scoring the winning goal in the final and also winning the Golden Boot and Most Valuable Player awards at the tournament. In the 2007 Ballon d'Or, Mahmoud finished in 29th place, becoming the only Iraqi player ever to be nominated for the Ballon d'Or.",
+   "passage": "Mahmoud's first international goal was an equaliser in the 89th minute of the final of the 2002 WAFF Championship, which Iraq then went on to win in extra-time. Three years later, Mahmoud scored in the final of the 2005 West Asian Games to lead his team to another title, before becoming the national team captain a year later. In 2007, Mahmoud achieved the best honour of his career, leading his country to win the 2007 AFC Asian Cup, their first such success, scoring the winning goal in the final and also winning the Golden Boot and Most Valuable Player awards at the tournament. In the 2007 Ballon d'Or, Mahmoud finished in 29th place, becoming the only Iraqi player ever to be nominated for the Ballon d'Or."
+  },
+  {
+   "id": "A3",
+   "statement": "He was awarded both the top scorer (Golden Boot) and MVP of the tournament.",
+   "source": "S1",
+   "evidence": "Mahmoud's first international goal was an equaliser in the 89th minute of the final of the 2002 WAFF Championship, which Iraq then went on to win in extra-time. Three years later, Mahmoud scored in the final of the 2005 West Asian Games to lead his team to another title, before becoming the national team captain a year later. In 2007, Mahmoud achieved the best honour of his career, leading his country to win the 2007 AFC Asian Cup, their first such success, scoring the winning goal in the final and also winning the Golden Boot and Most Valuable Player awards at the tournament. In the 2007 Ballon d'Or, Mahmoud finished in 29th place, becoming the only Iraqi player ever to be nominated for the Ballon d'Or.",
+   "passage": "Mahmoud's first international goal was an equaliser in the 89th minute of the final of the 2002 WAFF Championship, which Iraq then went on to win in extra-time. Three years later, Mahmoud scored in the final of the 2005 West Asian Games to lead his team to another title, before becoming the national team captain a year later. In 2007, Mahmoud achieved the best honour of his career, leading his country to win the 2007 AFC Asian Cup, their first such success, scoring the winning goal in the final and also winning the Golden Boot and Most Valuable Player awards at the tournament. In the 2007 Ballon d'Or, Mahmoud finished in 29th place, becoming the only Iraqi player ever to be nominated for the Ballon d'Or."
+  }
+ ],
+ "draft": {
+  "title": "Iraq's 2007 Asian Cup Triumph",
+  "slides": [
+   {
+    "body": "Iraq faced the chance to claim its inaugural Asian Cup title.",
+    "role": "hook",
+    "heading": "First Asian Cup Goal",
+    "fact_ids": [
+     "A1"
+    ]
+   },
+   {
+    "body": "The team entered the tournament seeking a historic breakthrough as their first success at this level.",
+    "role": "background",
+    "heading": "Nation's Quest",
+    "fact_ids": [
+     "A1"
+    ]
+   },
+   {
+    "body": "Younis Mahmoud delivered the decisive strike in the final match.",
+    "role": "turning_point",
+    "heading": "Winning Goal",
+    "fact_ids": [
+     "A2"
+    ]
+   },
+   {
+    "body": "Iraq secured the championship, and Mahmoud earned both the top scorer and most valuable player honors.",
+    "role": "outcome",
+    "heading": "Title and Awards",
+    "fact_ids": [
+     "A3"
+    ]
+   },
+   {
+    "body": "The win marked Iraq's maiden Asian Cup triumph, a milestone for the nation.",
+    "role": "why_it_matters",
+    "heading": "First Asian Cup Victory",
+    "fact_ids": [
+     "A1"
+    ]
+   }
+  ],
+  "explanation": {
+   "text": "This angle highlights how a single decisive moment delivered a historic first for Iraq, while also showcasing Mahmoud's individual accolades. It connects the team’s breakthrough with his standout performance.",
+   "fact_ids": [
+    "A1",
+    "A2",
+    "A3"
+   ]
+  }
+ },
+ "errors": [
+  "total words 81, need about 100-150",
+  "revision skipped: the remaining calls are reserved for verify, repair and re-verify"
+ ]
+}
